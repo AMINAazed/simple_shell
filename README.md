@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 simpleShell
+=======
+SimpleShell
+>>>>>>> Updated
