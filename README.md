@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+ HEAD
 simpleShell
 =======
 SimpleShell
->>>>>>> Updated
+Updated
